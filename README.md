@@ -4,8 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lambasid&label=Profile%20views&color=800080&style=flat-square" alt="lambasid" /> </p>
 
-- 🌌 Launch into My Cosmos: [Navigate Through My Stellar Projects](https://sidsportfolio.vercel.app/)
-- 📡 Transmit Messages to My Command Center: lambasid@sheridancollege.ca
+- 🌌 **Launch into My Cosmos:** [Navigate Through My Stellar Projects](https://sidsportfolio.vercel.app/)
+- 📡 **Transmit Messages to My Command Center:** [lambasid@sheridancollege.ca](mailto:lambasid@sheridancollege.ca)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
