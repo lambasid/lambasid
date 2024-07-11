@@ -1,6 +1,7 @@
-[![MasterHead](https://i.pinimg.com/originals/83/b8/09/83b809857acd41a7bad4935b4734f9fc.gif)](https://sidsportfolio.vercel.app/)
+
 <h1 align="center">Hi 👋, I'm Siddharth Lamba</h1>
 <h2 align="center">Digital Craftsman ( Developer | Learner | Melophile )</h2>
+[![MasterHead](https://i.pinimg.com/originals/83/b8/09/83b809857acd41a7bad4935b4734f9fc.gif)](https://sidsportfolio.vercel.app/)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lambasid&label=Profile%20views&color=800080&style=flat-square" alt="lambasid" /> </p>
 
