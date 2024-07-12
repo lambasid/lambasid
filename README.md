@@ -1,4 +1,4 @@
-<h1 align="center">🌑 Greetings from the Lunar Base! I'm Siddharth Lamba</h1>
+<h1 align="center">🌑 Greetings! I'm Siddharth Lamba</h1>
 
 [![MasterHead](https://i.pinimg.com/originals/83/b8/09/83b809857acd41a7bad4935b4734f9fc.gif)](https://sidsportfolio.vercel.app/)
 
