@@ -40,6 +40,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lambasid&show_icons=true&locale=en&layout=compact&bg_color=0D1117&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF" alt="lambasid" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lambasid&show_icons=true&locale=en&bg_color=0D1117&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF" alt="lambasid" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lambasid&background=0D1117&stroke=FFFFFF&fire=FFFFFF&ring=FFFFFF&sideLabels=FFFFFF&currStreakLabel=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=FFFFFF" alt="lambasid" /></p>
