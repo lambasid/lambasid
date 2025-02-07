@@ -41,6 +41,6 @@
 <h3 align="left">📊 GitHub Stats:</h3>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=lambasid&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lambasid&background=0D1117&stroke=FFFFFF&fire=FFFFFF&ring=FFFFFF&sideLabels=FFFFFF&currStreakLabel=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=FFFFFF" alt="GitHub Streak" />
+  <img src="https://gh-readme-stats.lambasid.vercel.app/api/streak-stats/?user=lambasid&theme=radical" alt="GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lambasid&layout=compact&theme=radical" alt="Top Languages" />
 </p>
