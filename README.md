@@ -1,13 +1,12 @@
 
 <h1 align="center">🌑 Greetings! I'm Siddharth Lamba</h1>
 
-[![MasterHead](https://i.pinimg.com/originals/83/b8/09/83b809857acd41a7bad4935b4734f9fc.gif)](https://sidsportfolio.vercel.app/)
+[![MasterHead](https://i.pinimg.com/originals/83/b8/09/83b809857acd41a7bad4935b4734f9fc.gif)]
 
 <h3 align="center">Digital Craftsman ( Developer | Learner | Melophile )</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lambasid&label=Profile%20views&color=800080&style=flat-square" alt="lambasid" /> </p>
 
-- 🌌 **Launch into My Cosmos:** [Navigate Through My Stellar Projects](https://sidsportfolio.vercel.app/)
 - 📡 **Transmit Messages to My Command Center:** [lambasid@sheridancollege.ca](mailto:lambasid@sheridancollege.ca)
 
 <h3 align="left">Connect with me:</h3>
