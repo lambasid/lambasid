@@ -33,7 +33,7 @@
          height="30" width="40" />
   </a>
 
-  <a href="mailto:lambasid@sheridancollege.ca">
+  <a (mailto:lambasid@sheridancollege.ca)>
     <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg"
          height="30" width="40" />
   </a>
