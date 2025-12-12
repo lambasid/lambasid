@@ -1,7 +1,6 @@
 
 <h1 align="center">🌑 Greetings! I'm Siddharth Lamba</h1>
 
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="ae5ad05b-0535-436f-81eb-857b77709ef8" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 <p align="center">
   <img src="https://i.pinimg.com/originals/83/b8/09/83b809857acd41a7bad4935b4734f9fc.gif" alt="Masterhead" />
 </p>
