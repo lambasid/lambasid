@@ -19,9 +19,6 @@
 - Interested in full-stack, cloud, and systems that don’t fall apart at scale  
 - Currently leveling up in **cloud & backend architecture**
 
-📡 **Contact:**  
-[lambasid@sheridancollege.ca](mailto:lambasid@sheridancollege.ca)
-
 ---
 
 ### 🌐 Connect with Me
@@ -31,6 +28,9 @@
   </a>
   <a href="https://instagram.com/damn_sid_" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
+  </a>
+  <a href="(mailto:lambasid@sheridancollege.ca)" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/email.svg" height="30" width="40" />
   </a>
 </p>
 
