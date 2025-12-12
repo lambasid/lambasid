@@ -80,6 +80,6 @@ Hands-on with EC2, S3, IAM, Lambda, and cloud-native thinking.
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=lambasid&theme=tokyonight" alt="GitHub Streak"/>
+  <img src="https://git-hub-streak-stats.vercel.app/?user=lambasid&theme=tokyonight" alt="GitHub Streak"/>
 </p>
 
