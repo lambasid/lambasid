@@ -32,17 +32,8 @@
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
          height="30" width="40" />
   </a>
-
-  <p align="left">
-  <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" height="30" width="40" />
-</p>
-
-```text
-lambasid@sheridancollege.ca
-
-</p>
-
-
+ </p> 
+ 
 ---
 
 ### 🛠️ Languages & Tools
