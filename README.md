@@ -32,6 +32,12 @@
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
          height="30" width="40" />
   </a>
+
+   <a href="https://www.sidlamba.com/" target="_blank" style="margin-right: 12px;">
+    <img src="https://thenounproject.com/icon/portfolio-645089/"
+         height="30" width="40" />
+  </a>
+  
  </p> 
  
 ---
