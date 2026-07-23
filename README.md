@@ -34,7 +34,7 @@
   </a>
 
    <a href="https://www.sidlamba.com/" target="_blank" style="margin-right: 12px;">
-    <img src="https://thenounproject.com/icon/portfolio-645089/"
+    <img src="https://www.svgrepo.com/show/234262/portfolio.svg"
          height="30" width="40" />
   </a>
   
