@@ -112,13 +112,3 @@ Hands-on with EC2, S3, IAM, Lambda, and cloud-native thinking.
 </p>
 
 ---
-
-### 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lambasid&show_icons=true&theme=tokyonight"/>
-</p>
-
-<p align="center">
-  <img src="https://git-hub-streak-stats.vercel.app/?user=lambasid&theme=tokyonight" alt="GitHub Streak"/>
-</p>
-
